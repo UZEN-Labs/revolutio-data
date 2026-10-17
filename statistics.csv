@@ -3,10 +3,10 @@
 industry_slug,industry,bls_series,series_name,employment_level_thousands,employment_asof,yoy_pct,openings_rate,openings_asof,layoffs_rate,layoffs_asof
 software,"Software Development",CES6054150001,"Computer Systems Design & Related Services",2355.4,2026-09-01,-1.06,4.4,2026-08-01,0.9,2026-08-01
 media,"Media & Journalism",CES5051100001,"Publishing Industries (excl. internet)",880.4,2026-09-01,-2.61,4.4,2026-08-01,0.9,2026-08-01
-consulting,"Consulting",CES6054160001,"Management, Scientific & Technical Consulting",1888.1,2026-09-01,0.88,,,,
-legal,"Legal",CES6054110001,"Legal Services",1249,2026-09-01,1.45,,,,
+consulting,"Consulting",CES6054160001,"Management, Scientific & Technical Consulting",1888.1,2026-09-01,0.88,4.8,2026-08-01,1.6,2026-08-01
+legal,"Legal",CES6054110001,"Legal Services",1249,2026-09-01,1.45,4.8,2026-08-01,1.6,2026-08-01
 finance,"Finance",USFIRE,"Financial Activities",9082,2026-09-01,-1.13,4.8,2026-08-01,0.8,2026-08-01
-administrative,"Administrative & Support",CES6056140001,"Administrative and Support Services",618.2,2026-09-01,-2.86,,,,
+administrative,"Administrative & Support",CES6056000001,"Administrative and Support and Waste Management",9018.6,2026-09-01,0.6,,,,
 healthcare,"Healthcare",CES6562000101,"Health Care (excl. social assistance)",18553.6,2026-09-01,1.41,5,2026-08-01,0.9,2026-08-01
 education,"Education",CES6561000001,"Educational Services",4046.4,2026-09-01,0.18,3.2,2026-08-01,1.6,2026-08-01
 logistics,"Logistics",CES4300000001,"Transportation & Warehousing",6608.7,2026-09-01,0.81,4.7,2026-08-01,1.1,2026-08-01
