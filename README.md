@@ -34,7 +34,8 @@ CC BY 4.0. Free to reproduce with attribution.
 - Layoffs tracker record (DOI): <https://doi.org/10.5281/zenodo.23438166>
 - Statistics page: <https://revolutio.si/statistics/>
 - Layoffs tracker page: <https://revolutio.si/layoffs/>
-- Hugging Face: [revolutio-statistics](https://huggingface.co/datasets/uzenlabs/revolutio-statistics) · [ai-attributed-layoffs](https://huggingface.co/datasets/uzenlabs/ai-attributed-layoffs)
+- Hugging Face collection: [Revolutio Open Data](https://huggingface.co/collections/uzenlabs/revolutio-open-data-ai-disruption-datasets)
+- Hugging Face datasets: [revolutio-statistics](https://huggingface.co/datasets/uzenlabs/revolutio-statistics) · [ai-attributed-layoffs](https://huggingface.co/datasets/uzenlabs/ai-attributed-layoffs)
 - Kaggle: [ai-attributed-layoffs-tracker](https://www.kaggle.com/datasets/jaskdon/ai-attributed-layoffs-tracker) · [revolutio-ai-disruption-statistics-us-industries](https://www.kaggle.com/datasets/jaskdon/revolutio-ai-disruption-statistics-us-industries)
 - Industry trackers: <https://revolutio.si/industries/>
 - Graded disruption signals: <https://revolutio.si/signals/>
