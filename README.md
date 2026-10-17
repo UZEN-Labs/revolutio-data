@@ -22,5 +22,6 @@ CC BY 4.0. Free to reproduce with attribution.
 ## Related
 
 - Statistics page: <https://revolutio.si/statistics/>
+- Hugging Face dataset (same CSV, auto-preview): <https://huggingface.co/datasets/uzenlabs/revolutio-statistics>
 - Industry trackers: <https://revolutio.si/industries/>
 - Graded disruption signals: <https://revolutio.si/signals/>
